@@ -4,7 +4,7 @@ batch file that creates a virtual environment and pip installs all databaker rel
 
 # setup
 
-Install annaconda (for python 3.5) on your windows machine.
+Install annaconda (for python 3.5+) on your windows machine.
 
 # usage
 
