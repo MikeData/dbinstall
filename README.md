@@ -14,4 +14,4 @@ This will create a python3 environment called "databaker" with everything you sh
 
 to activate that environment open up your (not anaconda!) command prompt and enter `activate databaker`. To deactivate it open a command prompt and enter `deactivate`
 
-`databaker` in this context is just the name of the python virtual environment that has databaker + assoicated libraries installed.
+`databaker` in this context is just the name of the python virtual environment that has databaker + associated libraries installed.
