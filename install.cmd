@@ -8,6 +8,6 @@ pip install --upgrade pip
 pip install pandas
 pip install databaker
 pip install jupyter
-pip install git+https://github.com/ONS-OpenData/databakerUtils.git
+pip install git+https://github.com/ONS-OpenData/cmd-databaker-utils.git
 
 pause
